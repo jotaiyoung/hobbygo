@@ -1,0 +1,9 @@
+CREATE TABLE admin_member
+(
+    `t_no`            INT              NOT NULL    AUTO_INCREMENT, 
+    `a_id`            VARCHAR(50)      NOT NULL, 
+    `a_pwd`           VARCHAR(50)      NOT NULL, 
+    PRIMARY KEY (t_no)
+);
+
+ insert into admin_member (a_id, a_pwd) value ('admin','admin');

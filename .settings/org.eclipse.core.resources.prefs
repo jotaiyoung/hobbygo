@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/index.css=UTF-8
+encoding//src/org/comstudy21/hobbygo/Bean/QnABoardBean.java=UTF-8
+encoding//src/org/comstudy21/hobbygo/Dao/HobbyConsultingDao.java=UTF-8
+encoding//src/org/comstudy21/hobbygo/Dao/QnaDao.java=UTF-8
+encoding//src/org/comstudy21/hobbygo/Service/HobbyConsultingService.java=UTF-8
